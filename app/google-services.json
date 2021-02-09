@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "970454201286",
+    "firebase_url": "https://weather-app-a15c1.firebaseio.com",
+    "project_id": "weather-app-a15c1",
+    "storage_bucket": "weather-app-a15c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970454201286:android:638a60e092aa0d0a",
+        "android_client_info": {
+          "package_name": "com.seanbrasse.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970454201286-1hq5jl8vvkbk3po3nanpjrl1iujjg8qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8hF-fLp6LMsIVtwcYpjV1-gQIXVHLP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
